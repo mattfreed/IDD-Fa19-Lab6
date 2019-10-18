@@ -76,7 +76,7 @@ function bot(data, socket, questionNum) {
 //	socket.emit('changeBG','blue');
 
   } else if (questionNum == 3) {
-    answer = 'No, ' + input + ', that\'s not what you wanted to tell me >:(';
+    answer = 'No, that\'s not what you wanted to tell me >:(';
     waitTime = 2000;
     question = 'Like, really, just like, maybe the first password that comes to mind?'; // load next question
   } else if (questionNum == 4)  {
@@ -93,7 +93,7 @@ function bot(data, socket, questionNum) {
      
     // load next question
   } else {
-    answer = 'Hey it was nice talking to you '+ input+ '! you should come back again some time ;)'; // output response
+    answer = 'Hey it was nice talking to you! You should come back again some time ;)'; // output response
     waitTime = 7000;
     question = '';
   }
