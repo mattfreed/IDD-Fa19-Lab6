@@ -8,7 +8,7 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 
 ## Make the ChatBot your own
 
-**Describe what changes you made to the baseline chatbot here. Don't forget to push your modified code to this repository.**
+This is Zuckerbot, a seemingly harmless chatbot that attempts to get you to input your personal information. The bot was given more of a personality than the original code, with fast changing words that help show emotion. 
 
 ## Record someone trying out your ChatBot
 
