@@ -2,13 +2,10 @@
 
 *A lab report by Matt Freed*
 
-## In this Report
-
-To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab6). You'll need to upload any code you change into your fork, as well as upload a video of a friend or classmate using your chatbot.
 
 ## Make the ChatBot your own
 
-This is Zuckerbot, a seemingly harmless chatbot that attempts to get you to input your personal information. The bot was given more of a personality than the original code, with fast changing words that help show emotion. 
+This is Zuckerbot, a seemingly harmless chatbot that attempts to get you to input your personal information. The bot was given more of a personality than the original code, with fast changing words that help show emotion and sentience. 
 
 ## Record someone trying out your ChatBot
 
